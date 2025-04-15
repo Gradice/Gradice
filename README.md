@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gradice
-- 👀 I’m interested in Web Development, Ui/Ux Design, A.I and Digital Marketing.
+- 👋 Hi, I’m Chidera
+- 👀 I’m interested in Web Development, UI/UX Design, A.I and Digital Marketing.
 - 🌱 I’m currently learning Javascript and React.js
 - 💞️ I’m looking to collaborate on projects relating to my areas of interest
 - 📫 How to reach me @ekwenemchidera@gmail.com
